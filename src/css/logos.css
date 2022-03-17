@@ -1,0 +1,15 @@
+.instagram-logo {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  .github-logo {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 60px;
+    right: 10px;
+  }
