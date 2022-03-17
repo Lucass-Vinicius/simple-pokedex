@@ -1,7 +1,7 @@
 # ⚡ Projeto Pokédex 
  Este projeto foi realizado durante a Semana MapaDev, da equipe [Dev em Dobro](https://github.com/devemdobro), ele consiste em basicamente uma simples pokedex, ou seja, um categorizador de pokémons.
  
- _**Veja o resultado clicando aqui**_
+ _**Veja o resultado [clicando aqui](https://lucass-vinicius.github.io/Projeto-Pokedex/)**_
 
 ![Gif Projeto Pokedex](src/imagens/projeto-pokedex.gif)
 
