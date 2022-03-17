@@ -34,6 +34,34 @@
     padding-right: 20px;
 }
 
+/* #charmander:hover{
+    background-color: #FF6347;
+}
+
+#pikachu:hover {
+    background-color: #FCC719;
+}
+
+#squirtle:hover {
+    background-color: #76befe;
+}
+
+#bulbasaur:hover {
+    background-color: #3CB371;
+}
+
+#gengar:hover {
+    background-color: #BA68C8;
+}
+#gyrados:hover{
+    background-color: #76befe;
+}
+
+#dragonite:hover {
+    background-color: #49D0B0;
+} */
+
+
 .listagem .pokemon.ativo {
     background-color: #35458b;
 }
