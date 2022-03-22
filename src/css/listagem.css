@@ -34,7 +34,7 @@
     padding-right: 20px;
 }
 
-#charmander:hover{
+ #charmander:hover{
     background-color: #FF6347;
 }
 
@@ -59,7 +59,8 @@
 
 #dragonite:hover {
     background-color: #49D0B0;
-}
+} */
+
 
 .listagem .pokemon.ativo {
     background-color: #35458b;
